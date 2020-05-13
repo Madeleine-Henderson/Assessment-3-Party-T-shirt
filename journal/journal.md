@@ -135,19 +135,18 @@ Does this project reflect the intent?
 
 Firstly, I created the coding for the Accelerometer features. Creating a “on shake” and “free fall” reaction. On shaking the micro bit, the led lights will display a pattern, rotating 4 time through 4 different images. Then of the free fall I added in a “sad” melody so that when a person wearing the shirt falls over or jumps around, the micro bit will express these actions in response and in adding more interaction. I also included an icon under “on start” I wanted to use this icon throughout the entire function of the shirt, to make it all tie together. 
 
-![Image](24.png)
+![Image](9.png)
 
 Next I created the coding for the A and B button functions. For button A I created a tempo function, this allows for the user to be able to speed up the tunes playing. I made the function increase the tempo by 25%. For button B I added in the text function which I set to present my name. At the end of each command I included the square icon I had in the first section, this is to set the screen back to this defult image. 
 
-![Image](9.png)
+![Image](10.png)
 
 Next I created the code for Pin 1. For this pin I wanted to create a melody of a popular and fun party song, so I replicated the tune of “shooting Stars” by Bag Raiders. This was a bit of a tedious process, but I only replicated a small portion of the key part of the song, I then put this on repeat 4 times to get the full effect of the song. I also included some star symbols that flash after the song plays, this ties into the visuals of the design, replicating the start symbol on the shirt. Lastly I again set the icon back to the default square. 
 
-![Image](10.png)
+![Image](11.png)
 
 Next I created the code for Pin 2. Again, I replicated the melody of a popular party song, “Despacito” by Luis Fonsi. This was very, very tedious as I included a large part of the song, this was to give more variety in the time that a melody plays for, as well as playing enough of the song to make it recognisable to listeners. Again, I added in song note symbols at the bottom and the default square icon.
 
-![Image](11.png)
 ![Image](12.png)
 
 
