@@ -1,11 +1,8 @@
 # 1701QCA Final project journal: *Madeleine Henderson*
 
-<!--- As for other assessments, fill out the following journal sections with information relevant to your project. --->
-
-<!--- Markdown reference: https://guides.github.com/features/mastering-markdown/ --->
 
 ## Related projects ##
-<!--- Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing. --->
+
 
 ### *IMIDI Jacket* ###
 
@@ -127,11 +124,11 @@ Does this project reflect the intent?
  Yes, this project has achieved the idea of a “wearable party” allowing for the user to be able to engage with party music and interact with the shirt wherever they go. 
  
  ### New Design concept sketch ###
-![Image](9.png)  
+![Image](7.png)
 
 ### Interaction flowchart ###
 
-![Image](missingimage.png)
+![Image](8.png)
 
 ## Design process discussion ##
 # Coding: 
@@ -142,75 +139,80 @@ Firstly, I created the coding for the Accelerometer features. Creating a “on s
 
 Next I created the coding for the A and B button functions. For button A I created a tempo function, this allows for the user to be able to speed up the tunes playing. I made the function increase the tempo by 25%. For button B I added in the text function which I set to present my name. At the end of each command I included the square icon I had in the first section, this is to set the screen back to this defult image. 
 
-![Image](25.png)
+![Image](9.png)
 
 Next I created the code for Pin 1. For this pin I wanted to create a melody of a popular and fun party song, so I replicated the tune of “shooting Stars” by Bag Raiders. This was a bit of a tedious process, but I only replicated a small portion of the key part of the song, I then put this on repeat 4 times to get the full effect of the song. I also included some star symbols that flash after the song plays, this ties into the visuals of the design, replicating the start symbol on the shirt. Lastly I again set the icon back to the default square. 
 
-![Image](26.png)
+![Image](10.png)
 
 Next I created the code for Pin 2. Again, I replicated the melody of a popular party song, “Despacito” by Luis Fonsi. This was very, very tedious as I included a large part of the song, this was to give more variety in the time that a melody plays for, as well as playing enough of the song to make it recognisable to listeners. Again, I added in song note symbols at the bottom and the default square icon.
 
-![Image](27.png)
-![Image](28.png)
+![Image](11.png)
+![Image](12.png)
 
 
 # Building the physical project
 
 Firstly, I began by connecting all the cords to the conductors and the micro bit. Note that at this point in time I used aluminium foil as I had not yet received electric paint was still trialling and experimenting with materials.  
 
-![Image](30.png)
+![Image](13.png)
 
 Next I began to secure all the connections and wires; this was to ensure that nothing would come loss and to keep everything together neatly. To do this I used white insulation tape. This keeps everything in its place, as well as keeping the connections waterproof. One area of concern I discovered in this section, was the durability of the tape over a period of time, tape isn’t the most effective and sustainable material, but improving this maybe something to look into when finalising my project. 
 
-![Image](31.png)
+![Image](14.png)
 
 Next I attached all the components to the underlayer shirt. To do this I decided to us Velcro, as this will secure the components in place, whilst making them easily removed to be able to wash the shirt. To do this I stitched the pieces of Velcro to the shirt in the allocated places and used hot glue to attach it to the other components.   
  
-![Image](32.png)
+![Image](15.png)
 
 Next I placed the top layer of the shirt over the bottom layer and mapped out where I would need to cut or paint. I then cut out a small rectangle in the top shirt, that allowed for the buttons and led lights to be visible. I also did the same on the back of the shirt for the speaker. When mapping out and matching both layers on the shirt, I lightly sketched out an outline of where the paint is to be applied. 
 
-![Image](33.png)
+![Image](16.png)
 
 Next I painted on the symbols with electric paint to both sides of the top layer shirt, to ensure the paint seeps through to allow the sensors to work. After it dried I then hooked up the shirts.  
  
-![Image](01.png)
+![Image](17.png)
 
-![Image](02.png)
+![Image](18.png)
 
 I also painted the inside of the shirt to make sure the paint would go through both the inside and outside of the shirt to make the connection. 
 
-![Image](03.png)
+![Image](19.png)
 
 Then, I swapped out the aluminium conductors and valcroed the crocodile clips to line up with the paint.
 
-![Image](04.png)
+![Image](20.png)
 
 From here I move into the refining stage of the task, looking to improve some issues and finalise the project. 
 
 I began by changing the position of the speaker, moving it down to the bottom left side of the shirt. I found this was more ideal, as the sound wouldn’t be too loud and it would balance out the weight of the shirt a lot better. 
 
-![Image](01.png)
+![Image](21.png)
 
 Next I added in a led strip around the waist band of the shirt, to making it more “party like”
 
-![Image](01.png)
+![Image](22.png)
 
 Next, I added felt around all the cords and internal elements of the shirt. This helps to make the shirt more defined and neat. Also making the shirt more durable and practical. I used neutral coloured felt to appear invisible to the wearer. 
 
-![Image](01.png)
+![Image](23.png)
 
 Lastly I added new larger buttons to improve visibility and practicality. I did want to add in a larger screen element, but this was not realistic especially in these times, in regards to what materials I could get access to. 
 
-![Image](01.png)
+![Image](24.png)
 
 ## Final code ##
 
-![Image](04.png)
+![Image](25.png)
+
+## Final Outcome ##
+
+![Image](26.png)
+![Image](27.png)
  
 ## Design process discussion ##
 
-![Image](04.png)
+![Image](28.png)
 
 Throughout the process of assignment 1&2, I followed and applied the double Dimond design to ensure I was working through the project effectively to get the best outcome possible. The double Dimond system first works by discovering a “problem”, this section is where I expand and look into all possibilities. This is exampled throughout my assignments, as well as discovering the issues that needed to be improved in this assignment. The next section is the “define” this section is where I narrowed down this issues, figure out exactly what the problem is which leads me to having a “clear problem” to then work from. This is seen though this assignment with the issues of position for the speaker, not having lights, the impractical buttons, and the messy cords. Next the Dimond expands again, as I then “develop” my design and work on finding solutions for those issues. Then lastly as the Dimond closes I refine the issues and “deliver” and complete the process on improving my design, which delivers me to having a clear solution.  
 
