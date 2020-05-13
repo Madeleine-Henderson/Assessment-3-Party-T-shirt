@@ -198,7 +198,7 @@ Next, I added felt around all the cords and internal elements of the shirt. This
 
 Lastly I added new larger buttons to improve visibility and practicality. I did want to add in a larger screen element, but this was not realistic especially in these times, in regards to what materials I could get access to. 
 
-![Image](24.png)
+![Image](w.png)
 
 ## Final code ##
 
