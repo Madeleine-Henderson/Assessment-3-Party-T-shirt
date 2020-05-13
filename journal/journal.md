@@ -217,10 +217,4 @@ Throughout the process of assignment 1&2, I followed and applied the double Dimo
 
 ## Reflection ##
 
-<!--- Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.
-
-What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?
-
-What parts of your project do you feel are novel. This is IMPORTANT to help justify a key component of the assessment rubric.
-
-What might be an interesting extension of this project? In what other contexts might this project be used? --->
+Reflecting on my assignment I feel that I have done well and learnt a lot throughout the entirety of this course. Throughout building this project I have spent a lot of time trialling and discovering solutions to problems and improving my design throughout. In this last section I felt that I was able to adequate improve my design, I really followed the double Dimond system and built upon examples and information I had discovered through the entirety of this project. I specifically gained influence and knowledge through the Illuminated Apparel and project 5 examples in assignment 2, these examples really influenced my idea to have the shirt active by pin press instead only movements. The Lumilor car example also inspired me to ass in LED lights as well as the Dressing Light project, really influencing my ideas for replacing the microbic screen. My project now feels more complete and novel with the interior design now a lot more refined and built to last, the added lighting now really makes the shirt match my intent better and really completes the shirt, as well as applying the recommendations from others to move the speaker and improve the visibility of the micro bit features. Building on from that last point, if I were to do an extension of this project (if there were no technology restraints) I would add in small LED screens or flexible screens, as seen in my research, instead of relying on the microbic LED board. I would  also want to expand the designs and colour to make the project more unique and versatile. Over all I felt like I learnt a lot and was happy with my efforts to create something that I never thought I would.  
