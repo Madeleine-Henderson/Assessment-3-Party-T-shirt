@@ -84,34 +84,135 @@ https://www.researchgate.net/publication/227630721_The_Effect_of_Mere_Touch_on_P
 ## Conceptual development ##
 
 ### Design intent ###
-<!--- Include your design intent here. It should be about a 10 word phrase/sentence. --->
+To create a wearable party. 
 
 ### Design ideation ###
-<!--- Document your ideation process. This will include the design concepts presented for assessment 2. You can copy and paste that information here. --->
+
+### Design concept 1 ###
+1.	A fun party hat. 
+This would include a disco ball attached to the top of the hat. The micro bit will create light up sequences and basically turn the hat into all the lighting equipment needed for a party, as well at making the person wear it look goofy and give everyone a bit of a laugh. 
+
+notes:
+- is it practical? 
+- water proof? 
+- would this work with a range of diffrent hat types?
+
+### Design concept 2 ###
+2.	Arm bands that light up with particular movements. 
+Using LED lights and accelerometer sensors to make the dance floor and baisc movments more fun and interactive. 
+
+notes:
+- is this aesthetically pleasing, would it work with peoples fashion taste and outfits?
+- dont thing this would really work with the amount of arm movments a person makes especially on a dance floor. 
+- the diffrent light patterns wouldnt be clear and would constantly look like flashion lights no matter what the type of movement.
+
+### Design concept 3 ###
+3.	Party shoes that play different tunes depending on the type of moment. 
+This would work by using accelerometers to retermin the type of movemnt and play a specific tune/ melody.
+
+notes:
+- again would this work with the amount of movemnt made especially on a dance floor.
+- would this just get really annoying?
+- how would this look aesthetically?
+- what shoes would this work with? 
+
 
 ### Final design concept ###
-<!--- This should be a description of your concept including its context, motivation, or other relevant information you used to decide on this concept. --->
+4.	A shirt that plays different songs and lights up with different movements.
+
+From all these concepts I decided that #4 is what I will create and further investigate into. I chose this concept as I felt that it suited and intent the best and was the most practical. The shirt idea means that it can be targeted at any gender, age etc, and it a practical and comfortable piece of clothing that people would usually wear to a party environment. This concept is also very doable considering having access to all the materials needed. I have now added to this design, including a string of LED lights, as well as moving the speaker and improving the buttons on the shirt. This has further improved the design and further suits the intent.
+
+Does this project reflect the intent? 
+
+ Yes, this project has achieved the idea of a “wearable party” allowing for the user to be able to engage with party music and interact with the shirt wherever they go. 
+ 
+ ### New Design concept sketch ###
+![Image](9.png)  
 
 ### Interaction flowchart ###
-<!--- Include an interaction flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible. --->
 
 ![Image](missingimage.png)
 
-## Process documentation ##
-<!--- In this section, include text and images (and potentially links to video) that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.
+## Design process discussion ##
+# Coding: 
 
-This should have quite a lot of information! It will likely include most of the process documentation from assessment 2 which can be copied and pasted here.
+Firstly, I created the coding for the Accelerometer features. Creating a “on shake” and “free fall” reaction. On shaking the micro bit, the led lights will display a pattern, rotating 4 time through 4 different images. Then of the free fall I added in a “sad” melody so that when a person wearing the shirt falls over or jumps around, the micro bit will express these actions in response and in adding more interaction. I also included an icon under “on start” I wanted to use this icon throughout the entire function of the shirt, to make it all tie together. 
 
-Use subheadings to structure this information. See https://guides.github.com/features/mastering-markdown/ for details of how to insert subheadings.
+![Image](24.png)
 
-There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. --->
+Next I created the coding for the A and B button functions. For button A I created a tempo function, this allows for the user to be able to speed up the tunes playing. I made the function increase the tempo by 25%. For button B I added in the text function which I set to present my name. At the end of each command I included the square icon I had in the first section, this is to set the screen back to this defult image. 
+
+![Image](25.png)
+
+Next I created the code for Pin 1. For this pin I wanted to create a melody of a popular and fun party song, so I replicated the tune of “shooting Stars” by Bag Raiders. This was a bit of a tedious process, but I only replicated a small portion of the key part of the song, I then put this on repeat 4 times to get the full effect of the song. I also included some star symbols that flash after the song plays, this ties into the visuals of the design, replicating the start symbol on the shirt. Lastly I again set the icon back to the default square. 
+
+![Image](26.png)
+
+Next I created the code for Pin 2. Again, I replicated the melody of a popular party song, “Despacito” by Luis Fonsi. This was very, very tedious as I included a large part of the song, this was to give more variety in the time that a melody plays for, as well as playing enough of the song to make it recognisable to listeners. Again, I added in song note symbols at the bottom and the default square icon.
+
+![Image](27.png)
+![Image](28.png)
+
+
+# Building the physical project
+
+Firstly, I began by connecting all the cords to the conductors and the micro bit. Note that at this point in time I used aluminium foil as I had not yet received electric paint was still trialling and experimenting with materials.  
+
+![Image](30.png)
+
+Next I began to secure all the connections and wires; this was to ensure that nothing would come loss and to keep everything together neatly. To do this I used white insulation tape. This keeps everything in its place, as well as keeping the connections waterproof. One area of concern I discovered in this section, was the durability of the tape over a period of time, tape isn’t the most effective and sustainable material, but improving this maybe something to look into when finalising my project. 
+
+![Image](31.png)
+
+Next I attached all the components to the underlayer shirt. To do this I decided to us Velcro, as this will secure the components in place, whilst making them easily removed to be able to wash the shirt. To do this I stitched the pieces of Velcro to the shirt in the allocated places and used hot glue to attach it to the other components.   
+ 
+![Image](32.png)
+
+Next I placed the top layer of the shirt over the bottom layer and mapped out where I would need to cut or paint. I then cut out a small rectangle in the top shirt, that allowed for the buttons and led lights to be visible. I also did the same on the back of the shirt for the speaker. When mapping out and matching both layers on the shirt, I lightly sketched out an outline of where the paint is to be applied. 
+
+![Image](33.png)
+
+Next I painted on the symbols with electric paint to both sides of the top layer shirt, to ensure the paint seeps through to allow the sensors to work. After it dried I then hooked up the shirts.  
+ 
+![Image](01.png)
+
+![Image](02.png)
+
+I also painted the inside of the shirt to make sure the paint would go through both the inside and outside of the shirt to make the connection. 
+
+![Image](03.png)
+
+Then, I swapped out the aluminium conductors and valcroed the crocodile clips to line up with the paint.
+
+![Image](04.png)
+
+From here I move into the refining stage of the task, looking to improve some issues and finalise the project. 
+
+I began by changing the position of the speaker, moving it down to the bottom left side of the shirt. I found this was more ideal, as the sound wouldn’t be too loud and it would balance out the weight of the shirt a lot better. 
+
+![Image](01.png)
+
+Next I added in a led strip around the waist band of the shirt, to making it more “party like”
+
+![Image](01.png)
+
+Next, I added felt around all the cords and internal elements of the shirt. This helps to make the shirt more defined and neat. Also making the shirt more durable and practical. I used neutral coloured felt to appear invisible to the wearer. 
+
+![Image](01.png)
+
+Lastly I added new larger buttons to improve visibility and practicality. I did want to add in a larger screen element, but this was not realistic especially in these times, in regards to what materials I could get access to. 
+
+![Image](01.png)
 
 ## Final code ##
 
-<!--- Include here screenshots of the final code you used in the project if it is done with block coding. If you have used javascript, micropython, C, or other code, include it as text formatted as code using a series of three backticks ` before and after the code block. See https://guides.github.com/features/mastering-markdown/ for more information about that formatting. --->
-
+![Image](04.png)
+ 
 ## Design process discussion ##
-<!--- Discuss your process used in this project, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process. --->
+
+![Image](04.png)
+
+Throughout the process of assignment 1&2, I followed and applied the double Dimond design to ensure I was working through the project effectively to get the best outcome possible. The double Dimond system first works by discovering a “problem”, this section is where I expand and look into all possibilities. This is exampled throughout my assignments, as well as discovering the issues that needed to be improved in this assignment. The next section is the “define” this section is where I narrowed down this issues, figure out exactly what the problem is which leads me to having a “clear problem” to then work from. This is seen though this assignment with the issues of position for the speaker, not having lights, the impractical buttons, and the messy cords. Next the Dimond expands again, as I then “develop” my design and work on finding solutions for those issues. Then lastly as the Dimond closes I refine the issues and “deliver” and complete the process on improving my design, which delivers me to having a clear solution.  
 
 
 ## Reflection ##
